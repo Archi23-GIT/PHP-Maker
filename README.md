@@ -1,2 +1,2 @@
-# PHP-Maker
+# PHP-Maker polish language file
 PHP Maker
